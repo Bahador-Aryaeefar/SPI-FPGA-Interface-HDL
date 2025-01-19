@@ -1,1 +1,1 @@
-# SPI Interface written in Verilog for FPGA
+*SPI Interface written in Verilog for FPGA*
